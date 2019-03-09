@@ -73,4 +73,13 @@ export default {
     background-color: #323333;
     color: #687F7F;
   }
+
+    .alert {
+    background: #f86565;
+    color: rgb(182, 0, 0);
+    font-weight: bold;
+    display: inline-block;
+    padding: 5px;
+    margin-top: -20px;
+  }
 </style>
