@@ -81,7 +81,7 @@ export default {
   }
 
     .alert {
-    background: #f86565;
+    background: #faa7a7;
     color: rgb(182, 0, 0);
     font-weight: bold;
     display: inline-block;
